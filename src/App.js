@@ -29,13 +29,13 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/PortfolioWeb_v1">
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route exact path="/PortfolioWeb_v1" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />

@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/DavideLuporini/PortfolioWeb_v1/",
-  "name": "portfolio",
+  "homepage": "http://DavideLuporini.github.io/PortfolioWeb_v1",
+  "name": "PortfolioWeb_v1",
+  "private":"false",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
