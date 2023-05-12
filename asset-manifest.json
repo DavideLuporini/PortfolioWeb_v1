@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/PortfolioWeb_v1/static/css/main.9efe008c.css",
-    "main.js": "/PortfolioWeb_v1/static/js/main.0853bdb2.js",
-    "static/js/415.9bc52d64.chunk.js": "/PortfolioWeb_v1/static/js/415.9bc52d64.chunk.js",
-    "static/js/787.36ec95f7.chunk.js": "/PortfolioWeb_v1/static/js/787.36ec95f7.chunk.js",
-    "static/media/Netflix.png": "/PortfolioWeb_v1/static/media/Netflix.a33004b30c6ef26a9479.png",
-    "static/media/whatsapp.png": "/PortfolioWeb_v1/static/media/whatsapp.b787ae6b4d6158889e08.png",
-    "static/media/Davide Luporini Curriculum.pdf": "/PortfolioWeb_v1/static/media/Davide Luporini Curriculum.20ec3520bde3f159fc60.pdf",
-    "static/media/home-main.svg": "/PortfolioWeb_v1/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/PortfolioWeb_v1/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/PortfolioWeb_v1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/TodoList.PNG": "/PortfolioWeb_v1/static/media/TodoList.9c10a7876e5b5bb15e72.PNG",
-    "static/media/avatar.svg": "/PortfolioWeb_v1/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/PortfolioWeb_v1/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/PortfolioWeb_v1/index.html",
-    "main.9efe008c.css.map": "/PortfolioWeb_v1/static/css/main.9efe008c.css.map",
-    "main.0853bdb2.js.map": "/PortfolioWeb_v1/static/js/main.0853bdb2.js.map",
-    "415.9bc52d64.chunk.js.map": "/PortfolioWeb_v1/static/js/415.9bc52d64.chunk.js.map",
-    "787.36ec95f7.chunk.js.map": "/PortfolioWeb_v1/static/js/787.36ec95f7.chunk.js.map"
+    "main.css": "/portfoliowebluporinidavide/static/css/main.6c464a8f.css",
+    "main.js": "/portfoliowebluporinidavide/static/js/main.067eb97a.js",
+    "static/js/415.17971c57.chunk.js": "/portfoliowebluporinidavide/static/js/415.17971c57.chunk.js",
+    "static/js/787.46996763.chunk.js": "/portfoliowebluporinidavide/static/js/787.46996763.chunk.js",
+    "static/media/Netflix.png": "/portfoliowebluporinidavide/static/media/Netflix.a33004b30c6ef26a9479.png",
+    "static/media/whatsapp.png": "/portfoliowebluporinidavide/static/media/whatsapp.b787ae6b4d6158889e08.png",
+    "static/media/Davide Luporini Curriculum.pdf": "/portfoliowebluporinidavide/static/media/Davide Luporini Curriculum.20ec3520bde3f159fc60.pdf",
+    "static/media/home-main.svg": "/portfoliowebluporinidavide/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfoliowebluporinidavide/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/portfoliowebluporinidavide/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/TodoList.PNG": "/portfoliowebluporinidavide/static/media/TodoList.9c10a7876e5b5bb15e72.PNG",
+    "static/media/avatar.svg": "/portfoliowebluporinidavide/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfoliowebluporinidavide/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfoliowebluporinidavide/index.html",
+    "main.6c464a8f.css.map": "/portfoliowebluporinidavide/static/css/main.6c464a8f.css.map",
+    "main.067eb97a.js.map": "/portfoliowebluporinidavide/static/js/main.067eb97a.js.map",
+    "415.17971c57.chunk.js.map": "/portfoliowebluporinidavide/static/js/415.17971c57.chunk.js.map",
+    "787.46996763.chunk.js.map": "/portfoliowebluporinidavide/static/js/787.46996763.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9efe008c.css",
-    "static/js/main.0853bdb2.js"
+    "static/css/main.6c464a8f.css",
+    "static/js/main.067eb97a.js"
   ]
 }
